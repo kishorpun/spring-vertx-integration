@@ -1,0 +1,17 @@
+com/kiss/entity/ScreeningRelatedPersonRequest.class
+com/kiss/SpringRunner.class
+com/kiss/entity/ScreeningAction.class
+com/kiss/entity/ScreeningMatchInfo.class
+com/kiss/context/SpringConfiguration.class
+com/kiss/repository/ProductRepository.class
+com/kiss/repository/IScreeningRepository.class
+com/kiss/service/ProductService.class
+com/kiss/entity/ScreeningAttachment.class
+com/kiss/entity/ScreeningNRequestData.class
+com/kiss/verticle/SpringDemoVerticle.class
+com/kiss/entity/Product.class
+com/kiss/entity/ScreeningRelatedEntityRequestData.class
+com/kiss/entity/ScreeningRelatedEntityRequest.class
+com/kiss/verticle/ServerVerticle.class
+com/kiss/entity/ScreeningNRequest.class
+com/kiss/service/ScreeningService.class

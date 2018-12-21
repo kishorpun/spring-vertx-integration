@@ -1,0 +1,17 @@
+/root/playground/vertx/src/main/java/com/kiss/entity/ScreeningRelatedPersonRequest.java
+/root/playground/vertx/src/main/java/com/kiss/service/ProductService.java
+/root/playground/vertx/src/main/java/com/kiss/SpringRunner.java
+/root/playground/vertx/src/main/java/com/kiss/entity/ScreeningMatchInfo.java
+/root/playground/vertx/src/main/java/com/kiss/repository/IScreeningRepository.java
+/root/playground/vertx/src/main/java/com/kiss/entity/Product.java
+/root/playground/vertx/src/main/java/com/kiss/entity/ScreeningRelatedEntityRequestData.java
+/root/playground/vertx/src/main/java/com/kiss/entity/ScreeningAction.java
+/root/playground/vertx/src/main/java/com/kiss/service/ScreeningService.java
+/root/playground/vertx/src/main/java/com/kiss/entity/ScreeningNRequest.java
+/root/playground/vertx/src/main/java/com/kiss/context/SpringConfiguration.java
+/root/playground/vertx/src/main/java/com/kiss/entity/ScreeningAttachment.java
+/root/playground/vertx/src/main/java/com/kiss/entity/ScreeningRelatedEntityRequest.java
+/root/playground/vertx/src/main/java/com/kiss/verticle/SpringDemoVerticle.java
+/root/playground/vertx/src/main/java/com/kiss/repository/ProductRepository.java
+/root/playground/vertx/src/main/java/com/kiss/entity/ScreeningNRequestData.java
+/root/playground/vertx/src/main/java/com/kiss/verticle/ServerVerticle.java
